@@ -1,11 +1,15 @@
 # Julio Cesar Ribeiro 👨‍💻
 
-<a href="https://github.com/">
+<a href="https://github.com/juliocesarribeiro/">
   <img src="https://img.shields.io/static/v1?label=Github&message=Github&color=blue?style=plastic&logo=Github" alt="Github" />
 </a>
 
 <a href="https://www.linkedin.com/in/julio-cesar-ribeiro-841ab420/">
   <img src="https://img.shields.io/static/v1?label=linkedin&message=linkedin&color=blue?style=plastic&logo=linkedin" alt="linkedin" />
+</a>
+
+<a href=mailto:juliooriebir@gmail.com>
+  <img src="https://img.shields.io/static/v1?label=gmail&message=gmail&color=blue?style=plastic&logo=gmail" alt="gmail" />
 </a>
 
 ### Hello, Welcome to my profile
