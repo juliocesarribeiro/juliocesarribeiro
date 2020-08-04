@@ -12,6 +12,8 @@
   <img src="https://img.shields.io/static/v1?label=gmail&message=gmail&color=blue?style=plastic&logo=gmail" alt="gmail" />
 </a>
 
+[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+
 ### Hello, Welcome to my profile
 
 My name is Julio and i'm developer ReactJS | NodeJS | React-Native
