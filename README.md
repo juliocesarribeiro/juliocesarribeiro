@@ -12,9 +12,9 @@
   <img src="https://img.shields.io/static/v1?label=gmail&message=gmail&color=blue?style=plastic&logo=gmail" alt="gmail" />
 </a>
 
-### Hello, Welcome to my profile
+### Olá, bem vindo ao meu perfil
 
-My name is Julio and i'm developer ReactJS | NodeJS | React-Native
+Me chamo Julio Ribeiro, sou apaixonado por programação e atualmento estou trabalhando com as tecnologias ReactJS | NodeJS | React-Native
 
 <!--
 **juliocesarribeiro/juliocesarribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
