@@ -14,7 +14,7 @@
 
 ### Olá, bem vindo ao meu perfil
 
-Me chamo Julio Cesar Ribeiro, sou apaixonado por programação e atualmento estou trabalhando com as tecnologias ReactJS | NodeJS | React-Native
+Me chamo Julio Cesar Ribeiro, sou apaixonado por programação e atualmento estou trabalhando com as tecnologias ReactJS | NodeJS | React-Native, com foco em desenvolvimento Mobile.
 
 <!--
 **juliocesarribeiro/juliocesarribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
