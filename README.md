@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/static/v1?label=gmail&message=gmail&color=blue?style=plastic&logo=gmail" alt="gmail" />
 </a>
 
-### Olá, bem vindo ao meu perfil
+### Olá, bem vindo ao meu github
 
 Me chamo Julio Cesar Ribeiro, sou apaixonado por programação e atualmento estou trabalhando com as tecnologias ReactJS | NodeJS | React-Native, com foco em desenvolvimento Mobile.
 
