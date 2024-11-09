@@ -65,6 +65,14 @@ Me chamo Julio Cesar Ribeiro, sou apaixonado por programação e atualmento esto
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
+<img 
+    align="left" 
+    alt="NodeJs"
+    title="NodeJs" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
 
 <img 
     align="left" 
