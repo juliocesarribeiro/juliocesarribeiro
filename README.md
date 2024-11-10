@@ -6,6 +6,14 @@
             src="https://custom-icon-badges.demolab.com/github/stars/juliocesarribeiro?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
+        <a href="https://github.com/juliocesarribeiro=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/juliocesarribeiro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    <br>
 <a href="https://github.com/juliocesarribeiro/">
   <img src="https://img.shields.io/static/v1?label=Github&message=Github&color=blue?style=plastic&logo=Github" alt="Github" />
 </a>
