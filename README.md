@@ -1,5 +1,11 @@
 # Julio Cesar Ribeiro 👨‍💻
-
+ <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
 <a href="https://github.com/juliocesarribeiro/">
   <img src="https://img.shields.io/static/v1?label=Github&message=Github&color=blue?style=plastic&logo=Github" alt="Github" />
 </a>
