@@ -14,18 +14,6 @@
         />
     </a>
     <br>
-<a href="https://github.com/juliocesarribeiro/">
-  <img src="https://img.shields.io/static/v1?label=Github&message=Github&color=blue?style=plastic&logo=Github" alt="Github" />
-</a>
-
-<a href="https://www.linkedin.com/in/julio-cesar-ribeiro-841ab420/">
-  <img src="https://img.shields.io/static/v1?label=linkedin&message=linkedin&color=blue?style=plastic&logo=linkedin" alt="linkedin" />
-</a>
-
-<a href=mailto:juliooriebir@gmail.com>
-  <img src="https://img.shields.io/static/v1?label=gmail&message=gmail&color=blue?style=plastic&logo=gmail" alt="gmail" />
-</a>
-
 ### Olá, bem vindo ao meu github
 
 Me chamo Julio Cesar Ribeiro, sou apaixonado por programação e atualmento estou trabalhando com as tecnologias ReactJS | NodeJS | React-Native, com foco em desenvolvimento Mobile.
