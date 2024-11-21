@@ -17,7 +17,7 @@
     
 ### Olá, bem vindo ao meu github
 
-Me chamo Julio Cesar Ribeiro, sou apaixonado por programação e atualmento estou trabalhando com as tecnologias ReactJS | NodeJS | React-Native, com foco em desenvolvimento Mobile.
+Me chamo Julio Cesar Ribeiro, sou apaixonado por programação e atualmente estou trabalhando com as tecnologias ReactJS | NodeJS | React-Native, com foco em desenvolvimento Mobile.
 
 ---
 ### 🤖 Linguagens e Tecnologias
@@ -103,14 +103,6 @@ Me chamo Julio Cesar Ribeiro, sou apaixonado por programação e atualmento esto
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
 <br/>
